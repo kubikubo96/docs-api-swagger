@@ -6,9 +6,6 @@
 1. copy file từ example.json. ví dụ rate.json
 2. xem cấu trúc của file json example.json và viết theo
 3. sửa url để đổi docs api ở trang chủ hoặc trong file index.php.
-
-![alt text](./assets/change_json_file.png)
-
 ```
 window.onload = () => {
         window.ui = SwaggerUIBundle({
